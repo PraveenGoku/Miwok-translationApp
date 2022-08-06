@@ -20,4 +20,4 @@ their translation to English has been Implemented in an App with proper audio Pr
 <img src="https://github.com/PraveenGoku/Miwok-translationApp/blob/main/screenshots/Numbers.jpeg" width="480" hieght="854">
 <img src="https://github.com/PraveenGoku/Miwok-translationApp/blob/main/screenshots/Family.jpeg" width="480" hieght="854">
 <img src="https://github.com/PraveenGoku/Miwok-translationApp/blob/main/screenshots/Colors.jpeg" width="480" hieght="854">
-<img src=https://github.com/PraveenGoku/Miwok-translationApp/blob/main/screenshots/Phrases.jpeg" width="480" hieght="854">
+<img src="https://github.com/PraveenGoku/Miwok-translationApp/blob/main/screenshots/Phrases.jpeg" width="480" hieght="854">
