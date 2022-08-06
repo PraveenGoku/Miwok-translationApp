@@ -6,7 +6,7 @@
 ## Description 
 + This App displays 4 categories of words to learn an endangered Language Miwok
 + In each category, a list of words with English and Miwok language words, Images are shown.
-+ When a word is touched, a pronounciation audio is played.
++ When a word is touched, a pronunciation  audio is played.
 
 ## What I've learned :
 + Using MediaPlayer Class
